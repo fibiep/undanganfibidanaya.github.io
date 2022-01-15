@@ -20,7 +20,7 @@ body{
     }
 
     ul li a:hover{
-      color: rgb(83, 52, 4);
+      color: rgb(189, 148, 87);
     }
 
     @media screen and (max-width: 768px) {
@@ -59,7 +59,7 @@ body{
     background-image: ("img/bckgrnd.png");
     background-repeat: no-repeat;
     background-position: center;
-    box-shadow: 0 12px 18px rgb(83, 52, 4);
+    box-shadow: 0 12px 18px rgb(189, 148, 87);
     width: 100%;
     min-height: auto;
   }
