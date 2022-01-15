@@ -10,13 +10,13 @@ body{
     }
 
     ul li a{
-    color: #cc9900;
+    color: #000000;
     font-family: "Raleway";
     text-align: center;
     }
 
     ul li:hover{
-      background: #cc9900;
+      background: #000000;
     }
 
     ul li a:hover{
@@ -55,7 +55,7 @@ body{
     }
 
   .banner{
-    background-color: #212529;
+    background-color: #dde005;
     background-image: ("img/bckgrnd.png");
     background-repeat: no-repeat;
     background-position: center;
@@ -101,8 +101,8 @@ body{
     font-style: normal;
     text-align: center;
     font-family: 'Dancing Script', cursive;
-    color: #e0ba0d;
-    outline: black;
+    color: #000000;
+    outline: rgb(255, 252, 252);
     font-size: 5rem;
   }
 
