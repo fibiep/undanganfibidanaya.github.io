@@ -73,8 +73,8 @@ body{
   }
   .banner h1{
     font-size: 6rem;
-    color: #cc9900;
-    outline: black;
+    color: #000000;
+    outline: rgb(255, 252, 252);
     text-align: center;
     position: relative;
     font-family: 'Dancing Script', cursive;
