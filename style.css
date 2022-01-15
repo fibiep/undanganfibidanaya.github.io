@@ -10,7 +10,7 @@ body{
     }
 
     ul li a{
-    color: #2d465b;
+    color: #cc9900;
     font-family: "Raleway";
     text-align: center;
     }
@@ -101,7 +101,7 @@ body{
     font-style: normal;
     text-align: center;
     font-family: 'Great Vibes', cursive;
-    color: #836c06;
+    color: #e0ba0d;
     outline: black;
     font-size: 5rem;
   }
@@ -124,7 +124,7 @@ body{
     left: 50%;
     transform: translate(-50%);
     background: rgb(230,232,189);
-    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgba(86,97,87,1) 97%);
+    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgb(35, 37, 35) 97%);
     background-image: url("img/floral5.svg");
     background-size: cover;
     overflow: auto;
@@ -220,7 +220,7 @@ body{
     height: auto;
     float: left;
     background: rgb(230,232,189);
-    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgba(86,97,87,1) 97%);
+    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgb(161, 138, 5) 97%);
     opacity: 0.65;
   }
 
@@ -296,7 +296,7 @@ body{
 
   .footer{
     background: rgb(230,232,189);
-    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgba(86,97,87,1) 97%);
+    background: linear-gradient(90deg, rgba(230,232,189,1) 0%, rgba(220,241,241,1) 51%, rgb(161, 138, 5) 97%);
     width: 100%;
     min-height: 100px;
     font-family: "Raleway";
